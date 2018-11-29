@@ -52,13 +52,13 @@ www.stackoverflow.com/questions/21814825/you-need-need-to-use-a-theme-appcompat-
 
 
 
-Developers(PG5):
-Mr. Jason Garshong
-Mr. Jamal Lartey 
-Mr. Abdul Malik Musa
-Mr. Alfred Afrifa
-Mr. Reginald N.T Quarshie
-Mr. Cornelius Padi 
+Developers;
+Mr. Jason Garshong,
+Mr. Jamal Lartey, 
+Mr. Abdul Malik Musa,
+Mr. Alfred Afrifa,
+Mr. Reginald N.T Quarshie,
+Mr. Cornelius Padi ,
 
 
 ## License
