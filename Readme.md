@@ -3,18 +3,21 @@
 Bluty is a data sharing and communication frame work,that improves connectivity local area connections through the convenience of bluetooth or Wi-Fi.
 
 Tools used in building the Framework:
-#Andriod studio(v 3.4)
-#Coral draw x7
-#Adobe illustrator CC2018
+#### Andriod studio(v 3.4)
+#### Coral draw X7
+#### Adobe illustrator CC 2018
  
 # Prerequisites
 
-* Java
-* Python
-* Json
+*Java*
+
+*Python*
+
+*json*
 
 
 # Libraries
+
 ## Underdark Android
 http://underdark.io
 
@@ -28,7 +31,7 @@ This repository contains library sources, examples of using it and also short "G
 An Android library providing APIs to interact with beacons.  Please visit the
 [project website](http://altbeacon.github.io/android-beacon-library/) for how to use this library.
 
-**IMPORTANT:  By default, this library will only detect beacons meeting the AltBeacon specification.**
+**IMPORTANT: By default, this library will only detect beacons meeting the AltBeacon specification.**
 
 If you want this library to work with proprietary or custom beacons, see the [BeaconParser](http://altbeacon.github.io/android-beacon-library/javadoc/org/altbeacon/beacon/BeaconParser.html) class.
 
@@ -43,10 +46,15 @@ www.github.com/supunasp/csharing
 
 
 # Refrences
+
 Andriod Developers - www.developer.andriod.com
+
 Stackoverflow- www.stackoverflow.com
+
 Underdark  - www.underdark.ios
+
 www.stackoverflow.com/question/19925136/spinner-which-launch-different-activity-with-each-item
+
 www.stackoverflow.com/questions/21814825/you-need-need-to-use-a-theme-appcompat-theme-or-descendant-with-this-activity
 
 
