@@ -49,9 +49,9 @@ www.github.com/supunasp/csharing
 
 Andriod Developers - www.developer.andriod.com
 
-Stackoverflow- www.stackoverflow.com
+Underdark - www.underdark.ios
 
-Underdark  - www.underdark.ios
+Stackoverflow - 
 
 www.stackoverflow.com/question/19925136/spinner-which-launch-different-activity-with-each-item
 
@@ -59,14 +59,21 @@ www.stackoverflow.com/questions/21814825/you-need-need-to-use-a-theme-appcompat-
 
 
 
+
+
 # Developers
 
-Mr. Jason Garshong,
-Mr. Jamal Lartey, 
-Mr. Abdul Malik Musa,
-Mr. Alfred Afrifa,
-Mr. Reginald N.T Quarshie,
-Mr. Cornelius Padi,
+Mr. Jason Garshong
+
+Mr. Jamal Lartey
+
+Mr. Abdul Malik Musa
+
+Mr. Alfred Afrifa
+
+Mr. Reginald N.T Quarshie
+
+Mr. Cornelius Padi
 
 
 # License
