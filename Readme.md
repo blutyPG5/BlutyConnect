@@ -1,4 +1,5 @@
-#What is BLUT?Y
+# What is BLUTY?
+
 Bluty is a data sharing and communication frame work,that improves connectivity local area connections through the convenience of bluetooth or Wi-Fi.
 
 Tools used in building the Framework:
@@ -22,7 +23,7 @@ Peer-to-peer networking library for Android, with Wi-Fi and Bluetooth support.
 This repository contains library sources, examples of using it and also short "Getting Started" guide below.
 
 
-#Android Beacon Library
+# Android Beacon Library
 
 [![Build Status](https://circleci.com/gh/AltBeacon/android-beacon-library.png?circle-token=4e11fb0dccaa8b98bc67fdbe38b179e4a7d07c27)](https://circleci.com/gh/AltBeacon/android-beacon-library)
 
@@ -39,11 +40,11 @@ It allows Android devices to use beacons much like iOS devices do.  An app can r
 or more beacons appear or disappear.  An app can also request to get a ranging update from one or more beacons
 at a frequency of approximately 1Hz.
 
-#C-Sharing
+# C-Sharing
 www.github.com/supunasp/csharing
 
 
-#Refrences:
+## Refrences:
 Andriod Developers - www.developer.andriod.com
 Stackoverflow- www.stackoverflow.com
 Underdark  - www.underdark.ios
@@ -52,13 +53,14 @@ www.stackoverflow.com/questions/21814825/you-need-need-to-use-a-theme-appcompat-
 
 
 
-Developers;
+# Developers:
+
 Mr. Jason Garshong,
 Mr. Jamal Lartey, 
 Mr. Abdul Malik Musa,
 Mr. Alfred Afrifa,
 Mr. Reginald N.T Quarshie,
-Mr. Cornelius Padi ,
+Mr. Cornelius Padi,
 
 
 ## License
